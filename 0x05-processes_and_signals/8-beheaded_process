@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displaying I am invincible!!! when receiving a SIGTERM signal
+# killing the process 7-highlander
 
 pkill -f -SIGKILL 7-highlander
 
